@@ -1,36 +1,26 @@
-# Hey there! 👋
+# Hey there 👋
 
-I'm **Himanshu**, a Java developer based in India.
+I'm Himanshu, a software developer based in India.  
 
-I love designing and building software that solves real-world problems.  
-If an idea pops into my head, chances are I’ll build it and ship it.
+I mostly work on backend development — Core Java, JDBC, MySQL — and I'm currently exploring Spring Boot and full-stack technologies.
 
-My main tech stack includes **Core Java, JDBC, MySQL**, and I’m currently exploring **Spring Boot** and full-stack development.  
-My favorite tools are **VS Code, IntelliJ IDEA, and MySQL Workbench**.
+I also enjoy frontend development using HTML, CSS, JavaScript, and React, allowing me to build clean and interactive user interfaces.
 
-I’ve built multiple projects, but my favorite so far is the **Banking Management System**.
-
-I’m continuously learning, experimenting, and improving my craft.  
-More projects and open-source work are coming soon.
+This is a fresh profile where I’ll be uploading small projects, experiments, and things I’m currently learning.  
+Everything here is built from scratch — no templates, just honest work and continuous improvement.
 
 ---
 
-## **Fun Facts**
-- I enjoy backend development and writing clean, structured code.
-- Big fan of learning through building.
-- Love trekking, music, and exploring new tech.
-- Always curious about how things work under the hood.
+## **Tools & Tech**
+- Core Java, JDBC, MySQL  
+- Spring Boot (learning)  
+- HTML, CSS, JavaScript, React  
+- Git, GitHub, VS Code, IntelliJ IDEA  
 
 ---
 
-## **Tech Stack**
-- **Languages:** Java, SQL  
-- **Tools:** IntelliJ IDEA, VS Code  
-- **Databases:** MySQL  
-- **Other:** Git, GitHub  
-
----
-
-## **Let’s Connect**
-Feel free to explore my repositories and reach out if you want to collaborate or discuss anything tech.
-
+## **A Bit About Me**
+- I love building things from scratch  
+- Not a coffee or tea person  
+- Big anime fan  
+- Into trekking, music, and exploring new tech  
